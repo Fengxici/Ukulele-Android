@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ukulele</string>
+    <string name="drawer_item_settings">设置</string>
+
+    <string name="net_error_tip">当前网络不可用，请检查你的网络设置。</string>
+
+    <string name="tab_news">资讯</string>
+    <string name="tab_work">工作</string>
+    <string name="tab_data">数据</string>
+    <string name="tab_communicate">沟通</string>
+
+    <string name="news_page_trade">行业新闻</string>
+    <string name="news_page_hospital">院内新闻</string>
+    <string name="communicate_page_message">消息</string>
+    <string name="communicate_page_contact">联系人</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="gray_c">#cccccc</color>
+    <color name="green">#54bb40</color>
+
+    <color name="tab_layout_background">#ffffff</color>
+    <color name="tab_layout_indicator_color">#2C97DE</color>
+    <color name="tab_layout_textSelectColor">#2C97DE</color>
+    <color name="tab_layout_textUnSelectColor">#66000000</color>
+    <color name="tab_layout_underline_color">#DDDDDD</color>
+</resources>

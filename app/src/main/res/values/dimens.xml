@@ -1,0 +1,4 @@
+<resources>
+    <!--控件高度-->
+    <dimen name="titleBar">45dp</dimen>
+</resources>
